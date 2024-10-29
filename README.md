@@ -13,7 +13,7 @@ Prerequisites
 
 Before proceeding, ensure you have the following:
 
-- Access Credentials: Valid SSH credentials (`username` and `password`) for the server `courserv01.luddy.iupui.edu`.
+- Access Credentials: Valid SSH credentials (`username` and `password`) for the server .
 - Development Environment: A Unix-like environment with GCC and Make installed.
 - Project Files: Ensure all project files (`shell.c`, `Makefile`, etc.) are present in the designated directory on the server.
 
